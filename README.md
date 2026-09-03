@@ -40,17 +40,17 @@ I implemented collaborative scheduling using **WebSockets/STOMP**: team captains
 
 `Google OAuth2 + JWT` · `JPA` · `Docker` · `JUnit/Mockito` · `JaCoCo` · `SonarCloud` · `GitHub Actions`
 
-### [RidECI — Statistics & Sustainability](https://github.com/RIDECI/TROYA_STADISTICS_SUSTAINABLITY_BACKEND) · microservice contribution
-
-Contributed to a Spring Boot microservice in a university ride-sharing platform developed by a **30-person Scrum team** and selected as the course's best project. The service calculates shared-ride and estimated CO₂-reduction indicators, provides data for dashboards and generates PDF and Excel reports.
-
-`Hexagonal architecture` · `MongoDB` · `RabbitMQ` · `REST APIs` · `OpenAPI/Swagger` · `Docker` · `CI`
-
 ### [RidECI — Profiles & Reputation](https://github.com/RIDECI/TROYA_REPUTATION_BACKEND) · microservice contribution
 
 Contributed to the service responsible for user and vehicle profiles, ratings, comments and badges. It is a Spring Boot microservice organized with **ports and adapters**, persisted in MongoDB and integrated with the wider platform through RabbitMQ events.
 
 `Java 17` · `Spring Boot` · `MongoDB` · `RabbitMQ` · `JUnit` · `GitHub Actions`
+
+### [RidECI — Statistics & Sustainability](https://github.com/RIDECI/TROYA_STATISTICS_SUSTAINABILITY_BACKEND) · microservice contribution
+
+Contributed to a Spring Boot microservice in a university ride-sharing platform developed by a **30-person Scrum team** and selected as the course's best project. The service calculates shared-ride and estimated CO₂-reduction indicators, provides data for dashboards and generates PDF and Excel reports.
+
+`Hexagonal architecture` · `MongoDB` · `RabbitMQ` · `REST APIs` · `OpenAPI/Swagger` · `Docker` · `CI`
 
 ### POOBKEMON · object-oriented battle simulator
 
